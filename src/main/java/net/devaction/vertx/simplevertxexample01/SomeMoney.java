@@ -1,4 +1,4 @@
-package net.devaction.simplevertxexample01;
+package net.devaction.vertx.simplevertxexample01;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import io.vertx.core.json.JsonObject;

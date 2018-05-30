@@ -1,4 +1,4 @@
-package net.devaction.simplevertxexample01;
+package net.devaction.vertx.simplevertxexample01;
 
 import org.apache.logging.log4j.Logger;
 import org.apache.logging.log4j.LogManager;
