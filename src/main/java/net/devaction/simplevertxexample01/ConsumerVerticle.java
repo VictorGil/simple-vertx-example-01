@@ -1,11 +1,10 @@
 package net.devaction.simplevertxexample01;
 
 import org.apache.logging.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
 
 import io.vertx.core.AbstractVerticle;
 import io.vertx.core.eventbus.EventBus;
-
-import org.apache.logging.log4j.LogManager;
 
 /**
  * @author Víctor Gil
