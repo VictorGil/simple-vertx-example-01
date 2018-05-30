@@ -1,10 +1,8 @@
 package net.devaction.simplevertxexample01;
 
 import org.apache.logging.log4j.Logger;
-
-import io.vertx.core.Launcher;
-
 import org.apache.logging.log4j.LogManager;
+import io.vertx.core.Launcher;
 
 /**
  * @author Víctor Gil
