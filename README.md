@@ -15,3 +15,4 @@ This example is useful for people who are new to vert.x since it showcases the f
 - how to stop vert.x
 - the asynchronous behaviour of vert.x
 
+More information available at http://www.devaction.net/2018/05/verx-01.html 

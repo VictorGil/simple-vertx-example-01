@@ -10,7 +10,7 @@ import io.vertx.core.Launcher;
  * 
  * since Tue 2018-May-29 
  */
-public class MainClass {
+public class MainClass{
     private static final Logger log = LogManager.getLogger(MainClass.class);
     private static final String run = "run";
     
